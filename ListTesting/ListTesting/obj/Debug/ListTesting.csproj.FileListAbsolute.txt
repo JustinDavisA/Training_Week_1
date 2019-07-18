@@ -1,0 +1,7 @@
+C:\Users\Onshore\source\repos\ListTesting\ListTesting\bin\Debug\ListTesting.exe.config
+C:\Users\Onshore\source\repos\ListTesting\ListTesting\bin\Debug\ListTesting.exe
+C:\Users\Onshore\source\repos\ListTesting\ListTesting\bin\Debug\ListTesting.pdb
+C:\Users\Onshore\source\repos\ListTesting\ListTesting\obj\Debug\ListTesting.csprojAssemblyReference.cache
+C:\Users\Onshore\source\repos\ListTesting\ListTesting\obj\Debug\ListTesting.csproj.CoreCompileInputs.cache
+C:\Users\Onshore\source\repos\ListTesting\ListTesting\obj\Debug\ListTesting.exe
+C:\Users\Onshore\source\repos\ListTesting\ListTesting\obj\Debug\ListTesting.pdb

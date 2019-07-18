@@ -1,0 +1,7 @@
+C:\Users\Onshore\source\repos\CalendarProject\CalendarProject\bin\Debug\CalendarProject.exe.config
+C:\Users\Onshore\source\repos\CalendarProject\CalendarProject\bin\Debug\CalendarProject.exe
+C:\Users\Onshore\source\repos\CalendarProject\CalendarProject\bin\Debug\CalendarProject.pdb
+C:\Users\Onshore\source\repos\CalendarProject\CalendarProject\obj\Debug\CalendarProject.csprojAssemblyReference.cache
+C:\Users\Onshore\source\repos\CalendarProject\CalendarProject\obj\Debug\CalendarProject.csproj.CoreCompileInputs.cache
+C:\Users\Onshore\source\repos\CalendarProject\CalendarProject\obj\Debug\CalendarProject.exe
+C:\Users\Onshore\source\repos\CalendarProject\CalendarProject\obj\Debug\CalendarProject.pdb
